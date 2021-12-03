@@ -1,0 +1,14 @@
+C:\Users\Ben Kathöfer\Desktop\VokabelTrainer\bin\Debug\netcoreapp3.1\VokabelTrainer.exe
+C:\Users\Ben Kathöfer\Desktop\VokabelTrainer\bin\Debug\netcoreapp3.1\VokabelTrainer.deps.json
+C:\Users\Ben Kathöfer\Desktop\VokabelTrainer\bin\Debug\netcoreapp3.1\VokabelTrainer.runtimeconfig.json
+C:\Users\Ben Kathöfer\Desktop\VokabelTrainer\bin\Debug\netcoreapp3.1\VokabelTrainer.runtimeconfig.dev.json
+C:\Users\Ben Kathöfer\Desktop\VokabelTrainer\bin\Debug\netcoreapp3.1\VokabelTrainer.dll
+C:\Users\Ben Kathöfer\Desktop\VokabelTrainer\bin\Debug\netcoreapp3.1\VokabelTrainer.pdb
+C:\Users\Ben Kathöfer\Desktop\VokabelTrainer\obj\Debug\netcoreapp3.1\VokabelTrainer.AssemblyInfoInputs.cache
+C:\Users\Ben Kathöfer\Desktop\VokabelTrainer\obj\Debug\netcoreapp3.1\VokabelTrainer.AssemblyInfo.cs
+C:\Users\Ben Kathöfer\Desktop\VokabelTrainer\obj\Debug\netcoreapp3.1\VokabelTrainer.csproj.CoreCompileInputs.cache
+C:\Users\Ben Kathöfer\Desktop\VokabelTrainer\obj\Debug\netcoreapp3.1\VokabelTrainer.dll
+C:\Users\Ben Kathöfer\Desktop\VokabelTrainer\obj\Debug\netcoreapp3.1\VokabelTrainer.pdb
+C:\Users\Ben Kathöfer\Desktop\VokabelTrainer\obj\Debug\netcoreapp3.1\VokabelTrainer.genruntimeconfig.cache
+C:\Users\Ben Kathöfer\Desktop\VokabelTrainer\obj\Debug\netcoreapp3.1\VokabelTrainer.csproj.AssemblyReference.cache
+C:\Users\Ben Kathöfer\Desktop\VokabelTrainer\obj\Debug\netcoreapp3.1\VokabelTrainer.GeneratedMSBuildEditorConfig.editorconfig
